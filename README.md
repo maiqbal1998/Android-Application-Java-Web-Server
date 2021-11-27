@@ -1,4 +1,4 @@
-# Android-Application-Java-Web-Server
+# Android App / Java Web Server
 Android application that displays vehicle information received via HTTP requests + Java Jetty Web Server.
 
 *Android application connects to web server via HTTP
